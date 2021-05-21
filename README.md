@@ -23,7 +23,7 @@ Once this is a close app to be used by hospital and Medical Institutions, is not
 
 
 
-- Grazielle Dantas   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trolleza/)](https://www.linkedin.com/in/trolleza/) [![Github Badge](https://img.shields.io/github/followers/Trolleza?style=social&link=https://github.com/Trolleza/)](https://github.com/Trolleza)
+- Graziele Dantas   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trolleza/)](https://www.linkedin.com/in/trolleza/) [![Github Badge](https://img.shields.io/github/followers/Trolleza?style=social&link=https://github.com/Trolleza/)](https://github.com/Trolleza)
 
 
 - Igor Almeida  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ialmeidapb/)](https://www.linkedin.com/in/ialmeidapb/)  [![Github Badge](https://img.shields.io/github/followers/ialmeidapb?style=social&link=https://github.com/ialmeidapb/)](https://github.com/ialmeidapb)
